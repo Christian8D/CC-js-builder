@@ -1,0 +1,25 @@
+{
+  "name": "cc-js-builder",
+  "version": "0.1.0",
+  "description": "This module allows for a dunamic footer to be generated for JS applictions with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian8D/mac-life.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Christian Cosio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christian8D/mac-life/issues"
+  },
+  "homepage": "https://github.com/Christian8D/mac-life#readme",
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
+}
